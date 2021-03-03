@@ -4,7 +4,7 @@ Token Generator Discord Python Android
 # Requirements:
 - python 3.7.0
 
-#Installation :
+Installation :
 
 1.Install Termux
 
